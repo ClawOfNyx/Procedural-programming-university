@@ -1,0 +1,69 @@
+QUERY1
+19
+Jane Sheen
+Richard Druddle
+Angelina Note
+...
+
+QUERY2
+873
+Richard Damon
+Kim Gibbs
+Jenny Doe
+...
+
+QUERY3
+807
+Richard Damon
+Kim Gibbs 
+Jenny Doe
+...
+
+QUERY4
+540
+Richard Damon
+Kim Gibbs 
+Jenny Doe
+...
+
+QUERY5
+282
+Richard Damon
+Jenny Doe
+Julie Note
+...
+
+QUERY6
+683
+Richard Damon
+Jenny Doe
+Helen Enderman
+...
+
+QUERY7
+219
+Helen Enderman
+Charlie Perry
+Alice Gibson
+...
+
+QUERY8
+82
+Victor Thornton
+Sarah Enderman
+Alex Quarry
+...
+
+QUERY9
+255
+Richard Damon
+Betty Brighthill
+Karl Stapleton
+...
+
+QUERY11
+
+Richard Damon
+Jenny Doe
+Kim de Vito
+...
